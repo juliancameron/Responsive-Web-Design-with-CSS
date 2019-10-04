@@ -1,0 +1,27 @@
+/* below is my thinking on how to solve the challenge*/
+/*
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    background-color: #e84610;
+    height: 100vh;
+}
+*/
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+main {
+    height: 100%;
+}
+
+section {
+    height: 100%;
+    background-color: #e84610;
+}
