@@ -1,3 +1,4 @@
+/* styles for all devices and mobile */
 .column {
     float: left;
     width: 100%;
@@ -6,6 +7,7 @@
     margin: 10px 0;
 }
 
+/* styles for tablet */
 @media (min-width: 768px) {
     .column {
         background-color: #e84610;
@@ -14,6 +16,7 @@
     }
 }
 
+/* styles for desktop */
 @media (min-width: 992px) {
     .column {
         background-color: #0997d3;
